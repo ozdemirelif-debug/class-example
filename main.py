@@ -1,5 +1,4 @@
 #BİL 104 ÖDEV-4
-#mağaza adlı class
 class Magaza:
     #boş dictionary'ler
     magazalar = {}

@@ -57,5 +57,6 @@ def main():
     magaza.magaza_satis_tutar(dict)
     magaza.__str__()
 #main fonksiyonunu 
-main()
+if __name__ == main:
+    main()
     
